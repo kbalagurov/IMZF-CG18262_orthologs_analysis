@@ -1,0 +1,1 @@
+A toolbox for processing raw protein datasets from the OrthoDB and EggNOG databases. It retains NCBI_ID for each protein, standardizers FASTA sequence headers, and merges the cleaned datasets into a single FASTA file for subsequent analysis.
